@@ -2,37 +2,34 @@ import submenu
 
 
 main_menu = [
-    ["matrix", "replit/matrix.py"],
-    ["swap", "replit/swap.py"],
-    ["Tree", "replit/tree.py"],
+    ["Number Swap", "replit/swap.py"],
+    ["Matrix", "replit/matrix.py"],
+    ["Tree", "replit/tree.py"]
 ]
 
 sub_menu = [
-    ["animation1", "replit/animation1.py"],
-    ["animation2", "replit/animation2.py"],
-    ["Car", "replit/car.py"],
+    ["Animation1", "replit/animation1.py"],
+    [" Car", "replit/car.py"]
 ]
 
-
-# Menu banner is typically defined by menu owner
 border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+banner = f"\n{border}\nSelect an option!\n{border}"
 
-# menu blueprint
+
 def menu():
     title = "Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Animations", submenu])
+    menu_list.append(["Animations", submenua])
     buildMenu(title, menu_list)
 
 
-def submenu():
+def submenus():
     title = "Submenu" + banner
     m = submenu.Menu(title, sub_menu)
     m.menu()
 
 
-def submenu():
+def submenua():
     title = "Submenu" + banner
     buildMenu(title, sub_menu)
 
@@ -74,7 +71,7 @@ def buildMenu(banner, options):
         # not one of the numbers listed
         print(f"invalid choice: {choice}")
 
-    buildMenu(banner, options)
+    buildMenu(banner, options)  # recursion, start menu over again
 
 
 if __name__ == "__main__":
