@@ -8,7 +8,7 @@ main_menu = [
 ]
 
 sub_menu = [
-    ["ship", "replit/ship.py"],
+    ["Ship", "replit/ship.py"],
     [" Car", "replit/car.py"]
 ]
 
