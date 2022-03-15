@@ -1,4 +1,4 @@
-#{% include navigation.html %}
+{% include navigation.html %}
 # Week 0: (3/7/22 ~ 3/11/22)
 
 ## TPT 5.1 Beneficial and Harmful Effects of Computing
