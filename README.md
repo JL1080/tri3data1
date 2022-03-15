@@ -1,2 +1,2 @@
 {% include navigation.html %}
-https://replit.com/join/zhbutklcam-jl1080
+https://replit.com/@JL1080/tri3data1#.replit
