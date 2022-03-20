@@ -4,12 +4,13 @@ import submenu
 main_menu = [
     ["Number Swap", "replit/swap.py"],
     ["Matrix", "replit/matrix.py"],
-    ["Tree", "replit/tree.py"]
+    ["fibonacci", "replit/fibonacci.py"],
 ]
 
 sub_menu = [
     ["Ship", "replit/ship.py"],
     [" Car", "replit/car.py"]
+    ["Tree", "replit/tree.py"]
 ]
 
 border = "=" * 25
