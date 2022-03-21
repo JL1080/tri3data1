@@ -3,24 +3,28 @@ InfoDb = []
 InfoDb.append({
     "Name": "James Lee",
     "Age": "17",
-    "Classes Taking":["US History", "AM Lit", "AP Physics", "AP Stats", "AP CSP"]
+    "Grade": "12",
+    "Classes Taking":["AP Gov", "AP Calc BC", "World Lit 1", "AP CSP", "Offroll"]
 })
 
 InfoDb.append({
     "Name": "Alex Do",
     "Age": "16",
+    "Grade": "11",
     "Classes Taking":["AP Studio Art","APEL","APUSH","AP Stats", "AP Bio"]
 })
 
 InfoDb.append({
     "Name": "Evan Sanchez",
     "Age": "16",
+    "Grade": "11",
     "Classes Taking":["AP Physics","AP Calc BC", "US History", "AM Lit", "AP Music Theory"]
 })
 
 InfoDb.append({
     "Name": "William Wu",
     "Age": "February 15",
+    "Grade": "10",
     "Classes Taking":["US History","Racquet Sports","Pre-Calc","AP Physics", "Offroll"]
 })
 
