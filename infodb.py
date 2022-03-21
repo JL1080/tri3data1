@@ -4,28 +4,28 @@ InfoDb.append({
     "Name": "James Lee",
     "Age": "17",
     "Grade": "12",
-    "Classes Taking":["AP Gov", "AP Calc BC", "World Lit 1", "AP CSP", "Offroll"]
+    "Classes Taking":["AP Gov", "AP Calc BC", "World Lit 1", "AP CSP", "Offroll"] # list inside of a list this will print on replit
 })
 
 InfoDb.append({
     "Name": "Alex Do",
     "Age": "16",
     "Grade": "11",
-    "Classes Taking":["AP Studio Art","APEL","APUSH","AP Stats", "AP Bio"]
+    "Classes Taking":["AP Studio Art","APEL","APUSH","AP Stats", "AP Bio"] # list inside of a list this will print on replit
 })
 
 InfoDb.append({
     "Name": "Evan Sanchez",
     "Age": "16",
     "Grade": "11",
-    "Classes Taking":["AP Physics","AP Calc BC", "US History", "AM Lit", "AP Music Theory"]
+    "Classes Taking":["AP Physics","AP Calc BC", "US History", "AM Lit", "AP Music Theory"] # list inside of a list this will print on replit
 })
 
 InfoDb.append({
-    "Name": "William Wu",
+    "Name": "William Wu", #
     "Age": "February 15",
     "Grade": "10",
-    "Classes Taking":["US History","Racquet Sports","Pre-Calc","AP Physics", "Offroll"]
+    "Classes Taking":["US History","Racquet Sports","Pre-Calc","AP Physics", "Offroll"] # list inside of a list this will print on replit
 })
 
     # given an index this will print InfoDb content
@@ -41,17 +41,17 @@ def print_data(n):
 ## hack 2c : def recursive_loop(0)
 
 def for_loop():
-    for n in range(len(InfoDb)):
+    for n in range(len(InfoDb)):  # for loop and it is printed by tester
         print_data(n)
 
 def while_loop(n):
-    while n < len(InfoDb):
+    while n < len(InfoDb): # while loop takes data and is printed by tester
         print_data(n)
         n += 1
     return
 
 # recursion simulates loop incrementing on each call (n + 1) until exit condition is met
-def recursive_loop(n):
+def recursive_loop(n): # recursive loop takes data and is printed by tester
     if n < len(InfoDb):
         print_data(n)
         recursive_loop(n + 1)
@@ -63,7 +63,7 @@ def recur_factorial(n):
     else:
         return n * recur_factorial(n-1)
 
-def tester():
+def tester(): # tester prints the data from the list and the def for loop, recursive and while loops
     print("For loop")
     for_loop()
     print("While loop")
