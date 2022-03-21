@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include nav.html %}
 # Week 1: (3/14/22 ~ 3/18/22)
 
 ## 5.3 Computer Bias
