@@ -11,6 +11,8 @@ def igcd(a, b):
 
 
 
+
+
 class Gcd:
     def __init__(self, a, b):
         self.a = a
