@@ -5,6 +5,7 @@
 - GNU General Public License allows anyone to use the code but not distribute it in a private manner
 - MIT License gives more leniency to the user. Allows people to use code and distrubute freely without the need to credit the original creator.
 - I chose the MIT License because I have been utilizing it a lot for most of my projects. I am fine with people using my code and distributing it.
+
 ## 5.6 Notes
 - In the previous trimester when we did CRUD we had email, name, and phone number in the database.
 - I feel like many people don't understand how important PII is. My PII is probably more exposed than I know because of advertising companies.
