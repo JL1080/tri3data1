@@ -32,11 +32,11 @@ def tester():
     num = input("Imperative [i] or OOP [o]")
     try:
         if num == 'i':
-            print("The gcd of 60 and 48 is : ",end="")
-            print(igcd(60,48))
+            print("The gcd of 45 and 15 is : ",end="")
+            print(igcd(45,15))
         elif num == 'o':
-            f = Gcd(60,48)
-            print("The gcd of 60 and 48 is : ",end="")
+            f = Gcd(45,15)
+            print("The gcd of 45 and 15 is : ",end="")
             print(f())
     except:
         print("Sorry, something went wrong")

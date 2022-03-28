@@ -1,5 +1,6 @@
 import submenu
 from infodb import *
+from gcd import *
 
 main_menu = [
     ["Number Swap", "replit/week0/swap.py"],
@@ -7,7 +8,7 @@ main_menu = [
     ["fibonacci", "replit/week1/fibonacci.py"],
     ["Info DB", "infodb.py"],
     ["Factorial", "replit/week2/factorial.py"],
-    ["LeastCM", "replit/week2/leastcm.py"],
+    ["GCD", "replit/week2/gcd.py"],
     ["Palindrome", "replit/week2/palindrome.py"]
 ]
 
