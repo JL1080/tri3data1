@@ -5,7 +5,10 @@ main_menu = [
     ["Number Swap", "replit/week0/swap.py"],
     ["Matrix", "replit/week0/matrix.py"],
     ["fibonacci", "replit/week1/fibonacci.py"],
-    ["Info DB", "infodb.py"]
+    ["Info DB", "infodb.py"],
+    ["Factorial", "replit/week2/factorial.py"],
+    ["LeastCM", "replit/week2/leastcm.py"],
+    ["Palindrome", "replit/week2/palindrome.py"]
 ]
 
 sub_menu = [
