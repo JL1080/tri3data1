@@ -10,9 +10,6 @@ def igcd(a, b):
     return gcd
 
 
-
-
-
 class Gcd:
     def __init__(self, a, b):
         self.a = a
