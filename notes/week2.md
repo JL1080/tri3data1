@@ -1,5 +1,5 @@
 {% include navigation.html %}
-
+# Week 2: (3/21/22 ~ 3/25/22)
 
 ## 5.5 Notes
 - GNU General Public License allows anyone to use the code but not distribute it in a private manner
