@@ -10,6 +10,7 @@ main_menu = [
     ["Factorial", "replit/week2/factorial.py"],
     ["GCD", "replit/week2/gcd.py"],
     ["Palindrome", "replit/week2/palindrome.py"]
+    ["Seq Sum", "replit/week2/math.py"]
 ]
 
 sub_menu = [
