@@ -55,3 +55,4 @@ def consec_print():
   func = Consec_Nums(inp)
   func()
 
+seq_sum()  
