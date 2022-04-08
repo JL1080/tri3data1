@@ -2,7 +2,5 @@
 # Create Task Ideas 
 * Refers to Strike and Ball Game 
 * Have it in html and json but converting to python
-* Old Program is here below
-* [Code for Create Task](https://github.com/jar04/flask_portfolio/blob/1298f9e37479762251ef7f0244ab900c9377eb6f/templates/james.html)
-* Link to Deployed Strike Ball Game below
-* [Deployed Create Task](http://127.0.0.1:8000/JL/james)
+* [Create Task Requirements Documentation](https://docs.google.com/document/d/1CQXkALDdLOtwdL4PEJ-WCEqZO7y2OJIyWKey7qHR3NY/edit?usp=sharing)
+* [Link to Create Task Runtime ](https://www.loom.com/share/9e18b5dc3c424a1585230e8f8e750f86)
