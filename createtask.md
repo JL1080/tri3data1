@@ -8,6 +8,3 @@
 * [Link to Create Task Runtime ](https://vimeo.com/701050189/474b509ed8)\
 
 
-<a href="#work" class="video">
-  <iframe src="https://vimeo.com/701050189/474b509ed8" width="450" height="350" allow="autoplay"></iframe>
-  </a>
