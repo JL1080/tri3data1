@@ -1,6 +1,6 @@
 ### <a href="https://JL1080.github.io/tri3data1/">Home</a>
 
-## Project Task (Planner) [code](https://github.com/willcyber/tri3/commit/a9500dab328d51da96858788877c8d5544619474#diff-a52656e65d90eefaf4a1b5b97b0c5fcf82cc37fa282bf448bea3cc543a93502d)
+## Project Task (Planner) [code and code comments](https://github.com/willcyber/tri3/commit/a9500dab328d51da96858788877c8d5544619474#diff-a52656e65d90eefaf4a1b5b97b0c5fcf82cc37fa282bf448bea3cc543a93502d)
 ## Project Task (Planner) [Pictures of Runtime](https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing)
 
 ## Coding Reflection for Week
