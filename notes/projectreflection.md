@@ -1,0 +1,7 @@
+### <a href="https://JL1080.github.io/tri3data1/">Home</a>
+
+## Project Task (Planner) [code](https://github.com/willcyber/tri3/commit/a9500dab328d51da96858788877c8d5544619474#diff-a52656e65d90eefaf4a1b5b97b0c5fcf82cc37fa282bf448bea3cc543a93502d)
+## Project Task (Planner) [Pictures of Runtime](https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing)
+
+## Coding Reflection for Week
+This week in class I tried to add to our github project specifically the teampage. First ourwebsite wasn’t working that well so I fixed the layouts and other parts of the navbar. I also wanted to add to our sponsor’s requests for a planner so I added a planner. This planner was a monthly planner and it allows for the user to add their necessary events and classes. Also, it allows the user to clear the events if needed and restart. There are also various modes for the 4 seasons and also allows for various colors. It also allows the person to return to the original color and use this useful planner. Since our website is about health and wellness for college students it allows for the students to be proactive in their studies. The planner is a great tool for being productive and is great for college students. . However, in the beginning of this Data Structures class, we have assigned at least 1 issue to each other, that was about our project purpose from our sponsor. Our project sponsor wanted a website that was focued on productivity and wellness of his students.  
