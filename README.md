@@ -47,4 +47,9 @@
     <td><a href="https://JL1080.github.io/tri3data1/notes/cbnotes"> College Board Lecture Note 1 & 2</a></td>
     <td><a href="https://JL1080.github.io/tri3data1/notes/projectreflection"> Project Task Runtime + Coding Reflection</a></td>
   </tr>
+   <tr>  
+    <th>Week 6 (04/25/22 - 04/29/22)</th>
+    <td><a href="https://github.com/willcyber/tri3/issues/48">Week 6 Review Ticket</a></td>
+    <td><a href="https://github.com/JL1080/tri3data1/blob/main/notes/tangibles.md"> Tangibles </a></td>
+  </tr>
 </table>
