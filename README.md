@@ -1,6 +1,7 @@
 <h1> Tri3-IndivRepo </h1>
 {% include navigation.html%}
 
+ <h2> Documentation of Individual Tech Requirements </h2>
 <table>
   <tr>
     <th>Replit</th>
