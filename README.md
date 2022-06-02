@@ -9,12 +9,13 @@ The website at the moment is a study tools website that is focused on helping st
 <table>
   <tr>
     <th>Key Tangibles & Features</th>
-    <td colspan="4"><a style="text-align: center; vertical-align: middle" href="https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing">Photos</a></td>
+    <td><a href="https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing">Photos</a></td>
     <td><a href="https://github.com/willcyber/tri3/commit/2d88643e43cf46dd91642bf60bf704f079363ed5">Database Commits</a></td>
     <td><a href="https://github.com/willcyber/tri3/commit/f3dad710cf33d1b232cb840317ccdaa1e389824a"> Database Notes Commits</a></td>
     <td><a href="https://github.com/willcyber/tri3/commit/4e2484dbcb84ea371247bc1fcf14d2637b22a43b">Notes Commits</a></td>
     <td><a href="https://github.com/willcyber/tri3/commit/a9500dab328d51da96858788877c8d5544619474"> Planner Commits</a></td>
   </tr>
+
   <tr>
     <th>Replit</th>
     <td colspan="4"><a style="text-align: center; vertical-align: middle" href="">Link</a></td>
