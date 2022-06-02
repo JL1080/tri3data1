@@ -2,11 +2,18 @@
 {% include navigation.html%}
 
  <h2> Documentation of Individual Tech Requirements </h2>
-Over this past year in CSP I have learned so many new skills about computer science. I came in with pretty much zero experience and I have grown so much since then.
+Over this past year in CSP I have learned so many new skills about computer science. I came in with pretty much zero experience and I have grown so much since then. I have learned various skills and various terms especially during 2nd trimester which I have applied to this trimester. In this data structures class, I have learned about logins and authorization, CRUD, Databases,and jinja. My proudest accomplishment was establishing a feedback feature using a database. Before I had used local storage to create a feedback feature but recently William and I got the feedback feature with the database working. I also learned about using DB Browser for SQLite to organize my data using CRUD. I also got to learn about github pages and what they can do for our team and individual pages. 
+ <h2> Current Project Overview and Plans </h2>
+The website at the moment is a study tools website that is focused on helping students with various tools that they can use. Our website provides a variety of features including planners, timers, math functions, notes, etc. This website allows the user to have lots of user interface action and be able to be more productive especially for college students. Most of the trimester we have had this our local Intellij but we have deployed to have it on the main website as well. Our sponsor is a UCSD professor and hope that eventually he can give this too his students to perhaps use it in the future. 
+
 <table>
   <tr>
     <th>Key Tangibles & Features</th>
     <td colspan="4"><a style="text-align: center; vertical-align: middle" href="https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing">Photos</a></td>
+    <td><a href="https://github.com/willcyber/tri3/commit/2d88643e43cf46dd91642bf60bf704f079363ed5">Database Commits</a></td>
+    <td><a href="https://github.com/willcyber/tri3/commit/f3dad710cf33d1b232cb840317ccdaa1e389824a"> Database Notes Commits</a></td>
+    <td><a href="https://github.com/willcyber/tri3/commit/4e2484dbcb84ea371247bc1fcf14d2637b22a43b">Notes Commits</a></td>
+    <td><a href="https://github.com/willcyber/tri3/commit/a9500dab328d51da96858788877c8d5544619474"> Planner Commits</a></td>
   </tr>
   <tr>
     <th>Replit</th>
