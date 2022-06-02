@@ -2,7 +2,10 @@
 {% include navigation.html%}
 
  <h2> Documentation of Individual Tech Requirements </h2>
+Over this past year in CSP I have learned so many new skills about computer science. I came in with pretty much zero experience and I have grown so much since then. 
+<h3> Key Tangibles & Features [Pictures of Runtime](https://docs.google.com/document/d/1XrQOlz5pmtVgYH_zMxkhOg7-cB4cqWjwFq7pvvJh8bg/edit?usp=sharing) </h3>
 <table>
+
   <tr>
     <th>Replit</th>
     <td colspan="4"><a style="text-align: center; vertical-align: middle" href="">Link</a></td>
